@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map PracticalCrypto
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+PracticalCrypto	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setKey              KEYWORD2
+getKey              KEYWORD2
+generateKey         KEYWORD2
+encrypt             KEYWORD2
+decrypt             KEYWORD2
+lastStatus          KEYWORD2
+hexStringToArray    KEYWORD2
+arrayToHexString    KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+Ok                      LITERAL1
+InvalidKey              LITERAL1
+InvalidCiphertextLength LITERAL1
+InvalidHexString        LITERAL1
+PlaintextTooLong        LITERAL1
+CiphertextTooLong       LITERAL1
+HexStringTooLong        LITERAL1
+HashMismatch            LITERAL1
+BufferAllocationFailed  LITERAL1
